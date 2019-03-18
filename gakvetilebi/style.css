@@ -1,0 +1,27 @@
+body {
+	background-color: powderblue;
+}
+h1 {
+	color: red;
+}
+p {
+	color: #333333;
+	font-size: 18px;
+	border: 10px solid green;
+	padding: 15px 25px 15px 25px;
+	margin: 0 0 40px;
+}
+img {
+	margin: 0 auto 40px;
+	display: block;
+	border: 5px solid #333333;
+}
+.description {
+	font-size: 16px;
+	color: #333333;
+	border: 2px dotted red;
+}
+#des {
+	font-size: 24px;
+	border: 2px dashed blue;
+}
